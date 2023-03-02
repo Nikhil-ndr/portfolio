@@ -15,7 +15,7 @@ AOS.init({
  })
 
  var typed = new Typed(".auto-input", {
-  strings: ["Student", "Web-Developer", "Designer", "Programmer"],
+  strings: ["STUDENT", "WEB-DEVELOPER", "DESIGNER", "PROGRAMMER"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
